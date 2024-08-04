@@ -42,7 +42,8 @@ As follows into animated gif:
 
 - OR_DIV
 `((x | y) % K)`<br>
-remainder of Euclidian division by *K* of bitwise OR on the binary expressions of *x y*. Forms complex systems of Sierpiński triangles.
+remainder of Euclidian division by *K* of bitwise OR on the binary expressions of *x y*.<br>
+Forms complex systems of Sierpiński triangles.
 
 ![](imgs/or_div_0_0_0-159-2fps.gif)<br>
 `(x|y)%K, X 0, Y 0, K 0,1,...,159`
